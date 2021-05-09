@@ -1,0 +1,55 @@
+Primary Color:
+497E92	3F535B	083445	84BACE	9BC0CE
+Complementary Color:
+E9AF70	917A62	6D3F0D	F5C999	F5D6B5
+
+
+Baby Blue
+#E3EFF9
+
+Serenity
+#AACDE5
+
+Tiffany Blue
+#6CC4DC
+
+Blue Grotto
+#3F92B7
+
+
+
+
+
+
+R: 176
+G: 196
+B: 222
+#B0C4DE
+ 
+R: 240
+G: 246
+B: 255
+#F0F6FF
+ 
+R: 84
+G: 112
+B: 100
+#547064
+ 
+R: 175
+G: 222
+B: 202
+#AFDECA
+ 
+R: 94
+G: 94
+B: 94
+#5E5E5E
+ 
+R: 222
+G: 222
+B: 222
+#DEDEDE
+
+
+
