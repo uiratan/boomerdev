@@ -2,7 +2,7 @@
 ```
 # = <h1></h1>
 ```
-<h1> Portifólio de Uiratan Cavalcante </h1>
+<h1> Portfólio de Uiratan Cavalcante </h1>
 
 > Status do projeto: Em desenvolvimento
 
